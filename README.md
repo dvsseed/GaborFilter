@@ -6,7 +6,7 @@ Yu CC, Wen CY, Lu CP and Chen YF, “*The Drug Tablet Image Retrieval System Bas
 
 This method is used to the procedure of **Imprint mark feature extraction**.
 
-You should installed the **Visual Studio 2015** (VC++)...
+You should installed the **Visual Studio 2015** (VC++) and **OpenCV** (v3.4.10)...
 
 The drug photo demo here.
 ![Here is the drug image](GaborFilter/vpc_black1.png)
