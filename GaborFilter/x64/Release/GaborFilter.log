@@ -1,0 +1,6 @@
+﻿  Gabor.cpp
+..\..\Gabor.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+..\..\Gabor.cpp(1): fatal error C1083: 無法開啟包含檔案: 'stdafx.h': No such file or directory
+  gabor_filter_main.cpp
+..\..\gabor_filter_main.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+..\..\gabor_filter_main.cpp(2): fatal error C1083: 無法開啟包含檔案: 'stdafx.h': No such file or directory

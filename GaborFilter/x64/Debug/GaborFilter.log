@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\opencv\build\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  GaborFR.cpp
+c:\opencv\build\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  GaborFilter.vcxproj -> C:\Users\dvsse\SynologyDrive\ai_drug\openCV\GaborFilter\x64\Debug\GaborFilter.exe
+  GaborFilter.vcxproj -> C:\Users\dvsse\SynologyDrive\ai_drug\openCV\GaborFilter\x64\Debug\GaborFilter.pdb (Full PDB)
